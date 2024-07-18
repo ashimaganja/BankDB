@@ -1,12 +1,3 @@
-# FraudServer
-
-FraudServer is a web application designed to detect fraud in financial transactions. Users can view transaction records and report fraudulent activities. The application is built using FastAPI and pandas, storing data in CSV files.
-
-## Features
-
-- 🕵️‍♂️ View records of financial transactions.
-- 🚨 Report fraudulent transactions.
-- 📄 CSV file-based data storage.
 
 ## Technologies Used
 
