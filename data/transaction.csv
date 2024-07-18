@@ -1,0 +1,3 @@
+credit_card_id,vendor_name,amount,vendor_zipcode,date,time,transaction_id
+928646be-7572-4f47-b908-2e37a5b8b8d4,walmart,500,8512,2024-07-18,08:36:47.970943,fc9405cf-b718-4b58-8598-0aaef6a179da
+bccd625f-2889-4775-bf25-cd982b01b524,walmart,200,08830,2024-07-18,13:17:25.502509,3520641b-ac23-45fd-bb8b-ea287724fc21
